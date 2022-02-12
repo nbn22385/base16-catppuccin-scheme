@@ -6,9 +6,10 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/nbn22385/base16-catppuccin-scheme/stargazers"><img src="https://img.shields.io/github/stars/nbn22385/base16-catppuccin-scheme?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/nbn22385/base16-catppuccin-scheme/stargazers"><img src="https://img.shields.io/github/stars/nbn22385/base16-catppuccin-scheme?colorA=1e1e28&colorB=c9cbff&style=for-the-badge"></a>
     <a href="https://github.com/nbn22385/base16-catppuccin-scheme/issues"><img src="https://img.shields.io/github/issues/nbn22385/base16-catppuccin-scheme?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
     <a href="https://github.com/nbn22385/base16-catppuccin-scheme/contributors"><img src="https://img.shields.io/github/contributors/nbn22385/base16-catppuccin-scheme?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/nbn22385/base16-catppuccin-scheme/license"><img src="https://img.shields.io/github/license/nbn22385/base16-catppuccin-scheme?colorA=1e1e28&colorB=DDB6F2&style=for-the-badge"></a>
 </p>
 
 <p align="center">
