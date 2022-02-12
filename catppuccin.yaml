@@ -1,18 +1,18 @@
-scheme: "Catppuccin Morning"
+scheme: "Catppuccin"
 author: "nbn22385"
-base00: "6E6C7E"
-base01: "F28FAD"
-base02: "ABE9B3"
-base03: "FAE3B0"
-base04: "96CDFB"
-base05: "F5C2E7"
-base06: "89DCEB"
-base07: "C3BAC6"
-base08: "988BA2"
-base09: "F28FAD"
-base0A: "ABE9B3"
-base0B: "FAE3B0"
-base0C: "96CDFB"
-base0D: "F5C2E7"
-base0E: "89DCEB"
-base0F: "D9E0EE"
+base00: "1E1E2E" # Default Background
+base01: "302D41" # Lighter Background (Used for status bars, line number and folding marks)
+base02: "302D41" # Selection Background
+base03: "575268" # Comments, Invisibles, Line Highlighting
+base04: "575268" # Dark Foreground (Used for status bars)
+base05: "D9E0EE" # Default Foreground, Caret, Delimiters, Operators
+base06: "C9CBFF" # Light Foreground (Not often used)
+base07: "F5E0DC" # Light Background (Not often used)
+base08: "F28FAD" # Variables, XML Tags, Markup Link Text, Markup Lists, Diff Deleted 
+base09: "E8A2AF" # Integers, Boolean, Constants, XML Attributes, Markup Link Url
+base0A: "89DCEB" # Classes, Markup Bold, Search Text Background
+base0B: "ABE9B3" # Strings, Inherited Class, Markup Code, Diff Inserted
+base0C: "F2CDCD" # Support, Regular Expressions, Escape Characters, Markup Quotes
+base0D: "DDB6F2" # Functions, Methods, Attribute IDs, Headings
+base0E: "96CDFB" # Keywords, Storage, Selector, Markup Italic, Diff Changed
+base0F: "DDB6F2" # Deprecated, Opening/Closing Embedded Language Tags
